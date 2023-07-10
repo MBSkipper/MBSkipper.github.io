@@ -97,9 +97,10 @@ p {
         max-height: 15rem;
     }
 
-    .about span, .coding span {
-        line-height: 0.5rem;
-        font-weight: 600;
+    .about p span, .coding p span {
+        justify-self: flex-end;
+        align-self: flex-end;
+        font-size: 0.4rem;
     }
         
 
