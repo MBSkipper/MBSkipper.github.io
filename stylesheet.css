@@ -96,6 +96,11 @@ p {
         max-width: 20rem;
         max-height: 15rem;
     }
+
+    .about span, .coding span {
+        line-height: 0.5rem;
+        font-weight: 600;
+    }
         
 
 /* -- Projects section --*/
